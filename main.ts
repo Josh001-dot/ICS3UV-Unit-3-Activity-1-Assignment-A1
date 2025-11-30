@@ -1,7 +1,7 @@
 /**
  * @author Joshua Adeyemi
  * @version 1.0.0
- * @date 2025-11-29
+ * @date 2025-11-27
  * @fileoverview This program calculates the area of a circle using constants.
  */
 
@@ -25,4 +25,4 @@ console.log(
   " cm²."
 );
 
-("\nDone.");
+console.log("\nDone.");
