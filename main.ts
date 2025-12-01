@@ -13,7 +13,7 @@ const RADIUS: number = 5.6;
 
 // PROCESS
 // calculate the area
-let area: number = PI * RADIUS * RADIUS;
+const area = PI * RADIUS * RADIUS;
 
 // OUTPUT
 // display the result
